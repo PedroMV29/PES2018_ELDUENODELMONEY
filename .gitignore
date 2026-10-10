@@ -1,0 +1,25 @@
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Compilaciones
+build/
+dist/
+*.spec
+
+# Partidas de PES 2018
+ML[0-9]*
+*.bak
+*.backup
+
+# Configuración local
+config.json
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
