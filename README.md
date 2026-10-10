@@ -1,4 +1,4 @@
-# PES 2018 DueñodelMundo — v3.4
+# PES 2018 DueñodelMundo — v1.0
 
 Editor **no oficial** de presupuestos de fichajes y salarios base de Liga Máster para PES 2018 en Windows. No afiliado a KONAMI.
 
